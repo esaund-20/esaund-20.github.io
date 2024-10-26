@@ -1,0 +1,6 @@
+$ echo 'evansdesigns.site' > CNAME
+$ git add .
+$ git commit -m 'Add a custom domain'
+...
+$ git push
+...
